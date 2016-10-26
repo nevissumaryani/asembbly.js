@@ -1,0 +1,2 @@
+# asembbly.js
+dokumen kita
